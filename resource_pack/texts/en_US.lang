@@ -1,0 +1,1 @@
+item.tntflat.terrain_flattener_tnt.name=Terrain Flattener TNT\nitem.tntflat.terrain_flattener_tnt.description=A special TNT that flattens terrain at a specified Y level\n\ntip.terrain_flattener_tnt=§aRight-click to place at target Y level\ntip.crafting_recipe=§eCrafting: Redstone Block + Gold Blocks + TNT (Redstone pattern around center)\n
